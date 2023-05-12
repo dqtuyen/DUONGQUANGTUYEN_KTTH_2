@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     RadioGroup group;
     EditText edtVND, edtNT;
     Button btnCL, btnVNDTONT, btnNTTOVND;
+    String test = "Day la phan test cua minh";
 
     int result = 1;
 
